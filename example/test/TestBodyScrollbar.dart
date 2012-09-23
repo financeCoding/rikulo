@@ -1,8 +1,8 @@
 //Sample Code: Test Log
 
-#import('../../client/app/app.dart');
-#import('../../client/view/view.dart');
-#import('../../client/html/html.dart');
+#import('package:rikulo/client/app/app.dart');
+#import('package:rikulo/client/view/view.dart');
+#import('package:rikulo/client/html/html.dart');
 
 class TestBodyScrollbar extends Activity {
 

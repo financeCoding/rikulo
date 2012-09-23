@@ -2,10 +2,10 @@
 
 #import('dart:html');
 
-#import('../../client/app/app.dart');
-#import('../../client/view/view.dart');
-#import('../../client/event/event.dart');
-#import('../../client/util/util.dart');
+#import('package:rikulo/client/app/app.dart');
+#import('package:rikulo/client/view/view.dart');
+#import('package:rikulo/client/event/event.dart');
+#import('package:rikulo/client/util/util.dart');
 
 class TestDragAndDrop extends Activity {
 

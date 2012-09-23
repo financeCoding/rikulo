@@ -2,11 +2,11 @@
 
 #import('dart:html');
 
-#import('../../client/app/app.dart');
-#import('../../client/view/view.dart');
-#import('../../client/event/event.dart');
-#import('../../client/html/html.dart');
-#import('../../client/util/util.dart');
+#import('package:rikulo/client/app/app.dart');
+#import('package:rikulo/client/view/view.dart');
+#import('package:rikulo/client/event/event.dart');
+#import('package:rikulo/client/html/html.dart');
+#import('package:rikulo/client/util/util.dart');
 
 View createCube(int size, String txt, String desc) {
   View v = new View();

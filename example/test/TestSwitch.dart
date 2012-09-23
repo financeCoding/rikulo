@@ -2,11 +2,11 @@
 //History: Fri, May 25, 2012  5:00:33 PM
 // Author: tomyeh
 
-#import('../../client/app/app.dart');
-#import('../../client/view/view.dart');
-#import('../../client/model/model.dart');
-#import('../../client/event/event.dart');
-#import('../../client/util/util.dart');
+#import('package:rikulo/client/app/app.dart');
+#import('package:rikulo/client/view/view.dart');
+#import('package:rikulo/client/model/model.dart');
+#import('package:rikulo/client/event/event.dart');
+#import('package:rikulo/client/util/util.dart');
 
 class TestSwitch extends Activity {
 

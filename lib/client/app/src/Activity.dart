@@ -30,10 +30,10 @@ typedef void ViewSwitchEffect(View oldView, View newView, void end());
  * of the screen, you can define an element in the HTML page (that loads the dart
  * application) and assign it the dimension you want and an id called `v-main`. For example,
  *
- *     <link rel="stylesheet" type="text/css" href="../../resources/css/view.css" />
+ *     <link rel="stylesheet" type="text/css" href="../resources/css/view.css" />
  *     <div id="v-main" style="width:100%;height:200px"></div>
  *     <script type="application/dart" src="HelloWorld.dart"></script>
- *     <script src="../../resources/js/dart.js"></script>
+ *     <script src="../resources/js/dart.js"></script>
  *
  * If you want to embed multiple application in the same HTML page, you can assign
  * the elements with a different ID, and then invoke [run] with the ID you assigned.

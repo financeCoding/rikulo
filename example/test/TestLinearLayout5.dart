@@ -1,7 +1,7 @@
 //Sample Code: LinearLayout Test 5
 
-#import('../../client/app/app.dart');
-#import('../../client/view/view.dart');
+#import('package:rikulo/client/app/app.dart');
+#import('package:rikulo/client/view/view.dart');
 
 class TestLinearLayout5 extends Activity {
 

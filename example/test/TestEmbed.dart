@@ -2,8 +2,8 @@
 
 #import('dart:html');
 
-#import('../../client/app/app.dart');
-#import('../../client/view/view.dart');
+#import('package:rikulo/client/app/app.dart');
+#import('package:rikulo/client/view/view.dart');
 
 class TestEmbed extends Activity {
 

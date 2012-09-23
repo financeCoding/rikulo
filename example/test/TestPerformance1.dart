@@ -1,7 +1,7 @@
 //Sample Code: LinearLayout Test Performance 1
 
-#import('../../client/app/app.dart');
-#import('../../client/view/view.dart');
+#import('package:rikulo/client/app/app.dart');
+#import('package:rikulo/client/view/view.dart');
 
 class TestPerformance1 extends Activity {
 

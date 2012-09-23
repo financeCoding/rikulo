@@ -1,7 +1,7 @@
 //Sample Code: Custom Layout Test 1
 
-#import('../../client/app/app.dart');
-#import('../../client/view/view.dart');
+#import('package:rikulo/client/app/app.dart');
+#import('package:rikulo/client/view/view.dart');
 
 class TestCustomLayout1 extends Activity {
 

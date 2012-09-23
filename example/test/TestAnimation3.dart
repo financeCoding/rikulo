@@ -3,13 +3,13 @@
 #import('dart:html');
 #import("dart:math");
 
-#import('../../client/app/app.dart');
-#import('../../client/view/view.dart');
-#import('../../client/html/html.dart');
-#import('../../client/util/util.dart');
-#import('../../client/event/event.dart');
-#import('../../client/gesture/gesture.dart');
-#import('../../client/effect/effect.dart');
+#import('package:rikulo/client/app/app.dart');
+#import('package:rikulo/client/view/view.dart');
+#import('package:rikulo/client/html/html.dart');
+#import('package:rikulo/client/util/util.dart');
+#import('package:rikulo/client/event/event.dart');
+#import('package:rikulo/client/gesture/gesture.dart');
+#import('package:rikulo/client/effect/effect.dart');
 
 String createColor(num x) {
   return CSS.color((92 * x).toInt(), (115 * x).toInt(), (229 * x).toInt());

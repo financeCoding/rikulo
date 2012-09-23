@@ -1,7 +1,7 @@
 //Sample Code: Test Log
 
-#import('../../client/app/app.dart');
-#import('../../client/view/view.dart');
+#import('package:rikulo/client/app/app.dart');
+#import('package:rikulo/client/view/view.dart');
 
 class TestViewTag extends Activity {
 

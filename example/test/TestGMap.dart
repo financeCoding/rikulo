@@ -1,7 +1,7 @@
-#import('../../client/app/app.dart');
-#import('../../client/view/view.dart');
-#import('../../client/service/gmaps/gmaps.dart');
-#import('../../client/util/util.dart');
+#import('package:rikulo/client/app/app.dart');
+#import('package:rikulo/client/view/view.dart');
+#import('package:rikulo/client/service/gmaps/gmaps.dart');
+#import('package:rikulo/client/util/util.dart');
 
 class TestGMap extends Activity {
 
