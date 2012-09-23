@@ -4,8 +4,8 @@
 #library('rikulo:samples/viewport');
 
 #import("dart:html");
-#import('../../client/view/view.dart');
-#import("../../client/html/html.dart");
+#import('package:rikulo/client/view/view.dart');
+#import("package:rikulo/client/html/html.dart");
 
 /**
  * A view port that demostrates how to implement a view that the origin of

@@ -3,8 +3,8 @@
 // Author: tomyeh
 #library('rikulo:samples/composite-view');
 
-#import('../../client/view/view.dart');
-#import('../../client/event/event.dart');
+#import('package:rikulo/client/view/view.dart');
+#import('package:rikulo/client/event/event.dart');
 
 /**
  * A composite view consisting of a label ([TextView]) and an input ([TextBox]).

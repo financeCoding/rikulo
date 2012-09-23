@@ -1,7 +1,7 @@
 //Sample Code: Input Samples
 
-#import('../../client/app/app.dart');
-#import('../../client/view/view.dart');
+#import('package:rikulo/client/app/app.dart');
+#import('package:rikulo/client/view/view.dart');
 
 class InputSamples extends Activity {
 

@@ -3,10 +3,10 @@
 #import('dart:html');
 #import("dart:math");
 
-#import('../../client/app/app.dart');
-#import('../../client/html/html.dart');
-#import('../../client/view/view.dart');
-#import('../../client/effect/effect.dart');
+#import('package:rikulo/client/app/app.dart');
+#import('package:rikulo/client/html/html.dart');
+#import('package:rikulo/client/view/view.dart');
+#import('package:rikulo/client/effect/effect.dart');
 
 
 CanvasRenderingContext2D ctx2d;

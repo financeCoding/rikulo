@@ -1,8 +1,8 @@
 //Sample Code: Custom Layout Demo
 
-#import('../../client/app/app.dart');
-#import('../../client/view/view.dart');
-#import('../../client/event/event.dart');
+#import('package:rikulo/client/app/app.dart');
+#import('package:rikulo/client/view/view.dart');
+#import('package:rikulo/client/event/event.dart');
 
 class CustomLayoutDemo extends Activity {
   View anchor;
